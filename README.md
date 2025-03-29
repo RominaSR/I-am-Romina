@@ -1,6 +1,6 @@
 # 🌍 Welcome to my Portfolio  
 
-This is my personal portfolio where I showcase my work in **Software Development, Data Science, and Computer Music**.
+This is my personal portfolio where I showcase some works in software development and computer music. 
 
 🚀 **Visit my website:**  
 👉 [https://rominasr.github.io/I-am-Romina/](https://rominasr.github.io/I-am-Romina/)
